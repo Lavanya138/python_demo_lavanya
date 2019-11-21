@@ -3,6 +3,8 @@ b=int(input("Enter number"))
 c1=a+b
 c2=a-b
 c3=a*b
+c4=a/b
 print("Addition",c1)
 print("Subtraction",c2)
 print("Multiplication",c3)
+print("Division",c4)
